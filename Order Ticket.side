@@ -1,0 +1,560 @@
+{
+  "id": "a19f0809-9d77-499f-b9f1-2ffe8a8bc2b0",
+  "version": "2.0",
+  "name": "Order Ticket",
+  "url": "https://dev.etorpromotor.com/index.php/beli-tiket/",
+  "tests": [{
+    "id": "f790bd61-1222-4752-9601-f14ae83bebda",
+    "name": "OT01",
+    "commands": [{
+      "id": "030433ba-8654-4362-8910-bb46a5336fd5",
+      "comment": "",
+      "command": "open",
+      "target": "https://dev.etorpromotor.com/index.php/beli-tiket/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "15fa0797-d9b3-4536-ba27-9a1f68d829dd",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1051x846",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "de0deb57-dd6a-4508-bf37-8cea239ff66a",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "789b7b4b-33b5-4260-9ae0-98b99f03b3cc",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(1) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(1) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "870031be-9d62-4377-aec9-b7e2dd125130",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(2) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(2) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "63899dc0-55f4-42fb-a815-1cb3a749aa77",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(2) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(2) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "8fc27596-af91-45e9-94eb-3512c9041498",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(2) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(2) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "db138515-9a1f-4662-874d-0fd87ed0a772",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(2) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(2) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "12dc88cf-a531-4f12-bb53-816dd0a89e03",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn > span",
+      "targets": [
+        ["css=.btn > span", "css:finder"],
+        ["xpath=//div[@id='app']/div/div[3]/button/span", "xpath:idRelative"],
+        ["xpath=//button/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Pesan Tiket')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "c30ce7db-eb8f-4ee4-bdef-106919fde167",
+    "name": "OT02",
+    "commands": [{
+      "id": "5ca312f9-5be3-4ca1-86de-9b1e199c4818",
+      "comment": "",
+      "command": "open",
+      "target": "https://dev.etorpromotor.com/index.php/beli-tiket/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "be0e7a85-7c1b-43ae-b5ea-7d47fd2e7239",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1051x846",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9dc053d2-8b66-4193-a155-30c5df6a3690",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "4bf737ff-5792-4307-86bd-0b1485f15a3d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(1) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(1) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "d0a71287-fbe7-4824-b13f-19f664bd95cc",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(1) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(1) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "bb4ded07-f48c-47b0-afe4-8636e8f9a6ba",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(2) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(2) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "a84543d4-9c6a-4c0c-9118-5af88b921b0b",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(2) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(2) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "0378dc33-47ee-4473-bae8-d984d5549e23",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(2) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(2) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "0c945c39-5a10-4e16-94c8-96e5854c805c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn > span",
+      "targets": [
+        ["css=.btn > span", "css:finder"],
+        ["xpath=//div[@id='app']/div/div[3]/button/span", "xpath:idRelative"],
+        ["xpath=//button/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Pesan Tiket')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "3fe2cb2d-ecfb-4358-9757-1cd3a232793c",
+    "name": "OT03",
+    "commands": [{
+      "id": "d222faa7-841e-4961-a623-c3f65293e041",
+      "comment": "",
+      "command": "open",
+      "target": "https://dev.etorpromotor.com/index.php/beli-tiket/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a00a9737-46bd-47f8-98e1-2c28c04e521b",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1051x846",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "dcddaa6d-cab3-40c8-8414-73f29b67de33",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "418aa7da-9037-4ce3-8432-dcde0c0a4790",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(1) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(1) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "38eac6da-9703-4395-b374-4f1fd6b1497e",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(1) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(1) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "04063e88-416e-4f0c-872b-de266f024138",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(1) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(1) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "120a9a19-da38-483d-98d3-46f4b85ca6a3",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(1) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(1) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "6af0e437-a272-4798-87d1-27094d667fc4",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(2) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(2) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "360e04c3-7391-4625-990d-9e8e15b747c2",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn > span",
+      "targets": [
+        ["css=.btn > span", "css:finder"],
+        ["xpath=//div[@id='app']/div/div[3]/button/span", "xpath:idRelative"],
+        ["xpath=//button/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Pesan Tiket')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "3b0d93af-382a-4a98-ba82-f67d8ade17fa",
+    "name": "OT04",
+    "commands": [{
+      "id": "fc4dc40f-823f-4c99-a209-22638e56270e",
+      "comment": "",
+      "command": "open",
+      "target": "https://dev.etorpromotor.com/index.php/beli-tiket/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "61760118-4543-48fb-a8e2-966679fc69cc",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1051x846",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "95b0e95b-e123-4653-b87a-1a55355de0fe",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "5ff67fe3-6cdf-4c4a-afc1-57641749e1ee",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(1) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(1) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "c4f664e0-f63a-46da-8203-8fb0a2b72b74",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(1) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(1) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "78bef136-095d-4b5d-92d7-b68cd3eae576",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(1) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(1) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "307f67e3-839f-4319-b6b9-0d0d52181b3c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(1) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(1) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "e9d955d4-6050-4b0c-8137-5148f2b17c1a",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(2) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(2) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "532fd4f6-ee52-42fd-b577-0a3f2ac13cc3",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn > span",
+      "targets": [
+        ["css=.btn > span", "css:finder"],
+        ["xpath=//div[@id='app']/div/div[3]/button/span", "xpath:idRelative"],
+        ["xpath=//button/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Pesan Tiket')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "b5599310-eca1-40a7-84ed-6f40ff5982e2",
+    "name": "OT05",
+    "commands": [{
+      "id": "581584ff-8ebc-4282-a420-607989873168",
+      "comment": "",
+      "command": "open",
+      "target": "https://dev.etorpromotor.com/index.php/beli-tiket/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "be0b18f4-38e7-4d95-9bfe-d688004d4a90",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1051x846",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "1ed380dd-970c-42e5-ab68-24af5cd6e270",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "1b168438-3d9b-4d60-90e3-a7d32ad21fbd",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(1) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(1) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "c7432d95-f1fe-4af4-8624-ae54f63e6a10",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(1) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(1) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "8670778a-7b2b-45eb-a45e-d3c10ee02e11",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(1) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(1) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "7dcefbee-b1c7-4269-ab2c-1faf7696c3a7",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(1) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(1) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "9d5f81c0-8adb-4355-8a20-2ac12bf8684d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(1) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(1) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "7cabd891-2f46-42e8-8331-ce4346cc6b6a",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn > span",
+      "targets": [
+        ["css=.btn > span", "css:finder"],
+        ["xpath=//div[@id='app']/div/div[3]/button/span", "xpath:idRelative"],
+        ["xpath=//button/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Pesan Tiket')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "9d362091-1a80-41d9-a512-674d5d58e94c",
+    "name": "OT06",
+    "commands": [{
+      "id": "fdbddd88-4994-4689-89f9-4ac80c06d6c6",
+      "comment": "",
+      "command": "open",
+      "target": "https://dev.etorpromotor.com/index.php/beli-tiket/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "8159247f-97aa-4c57-8e6f-9c72a825cfb1",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1051x846",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "9d9373b7-3d8b-49e7-a63f-098e768746e0",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "ec279ad6-8a62-445a-8fce-7d74f4ecc651",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(1) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(1) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "497c3c79-93ee-4b91-96e1-02c6d2f83283",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(1) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(1) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "70fd2040-4f9a-4e38-af53-d8ac16c3e5d5",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(1) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(1) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "82730e2e-1ee0-4e30-846a-504bea47cad7",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(1) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(1) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "8fdebea7-8e15-40e7-a010-d073c4b97d70",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cat-ticket:nth-child(1) .bi-plus",
+      "targets": [
+        ["css=.cat-ticket:nth-child(1) .bi-plus", "css:finder"]
+      ],
+      "value": ""
+    }, {
+      "id": "93c915f3-0749-41e7-9939-b28f2aabe169",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn > span",
+      "targets": [
+        ["css=.btn > span", "css:finder"],
+        ["xpath=//div[@id='app']/div/div[3]/button/span", "xpath:idRelative"],
+        ["xpath=//button/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Pesan Tiket')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "a43496d4-9bd7-40c9-97ff-9fe51be47584",
+    "name": "OT07",
+    "commands": [{
+      "id": "8b8b41a6-b889-4ed5-b7f3-c4f2392205f0",
+      "comment": "",
+      "command": "open",
+      "target": "https://dev.etorpromotor.com/index.php/beli-tiket/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "023a7c7f-6e56-49a3-bef3-90ab7703c282",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1051x846",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "faaeb673-7083-45c3-bd64-20984bff73c0",
+      "comment": "",
+      "command": "selectFrame",
+      "target": "index=0",
+      "targets": [
+        ["index=0"]
+      ],
+      "value": ""
+    }, {
+      "id": "9c5d21d6-1679-49c6-b623-e69214483b53",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn > span",
+      "targets": [
+        ["css=.btn > span", "css:finder"],
+        ["xpath=//div[@id='app']/div/div[3]/button/span", "xpath:idRelative"],
+        ["xpath=//button/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Pesan Tiket')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "c7fd7414-3237-47d1-a403-54103e6b5f41",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": ["https://dev.etorpromotor.com/", "https://dev.etorpromotor.com/index.php/beli-tiket/"],
+  "plugins": []
+}
